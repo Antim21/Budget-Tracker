@@ -1,4 +1,4 @@
- const transactions = [];
+  const transactions = [];
 
 document.getElementById('form').addEventListener('submit', addTransaction);
 
