@@ -2,7 +2,7 @@
 
 document.getElementById('form').addEventListener('submit', addTransaction);
 
-function addTransaction(e) {
+function addTransaction(e) {  
   e.preventDefault();
 
   const text = document.getElementById('text').value.trim();
