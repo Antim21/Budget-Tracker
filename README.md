@@ -1,4 +1,4 @@
-# Budget-Tracker
+  # Budget-Tracker
 
 <h1 align = "center">💰 Budget Tracker </h1>
 Budget tracker is a simple and intuitive expense tracker to help you manage your finances efficiently 📊. Track your income and expenses, view your transaction history, and easily filter by type to stay on top of your budget.
