@@ -17,7 +17,6 @@ Budget tracker is a simple and intuitive expense tracker to help you manage your
 - 💰 **View Total Balance:** The dashboard displays your current balance, total income, and total expenses at a glance.
 - 📜 **View Transaction History:** The history section shows all your recorded transactions, making it easy to see how you've been spending or earning over time.
 - 🔍 **Filter Transactions:** You can filter the transaction list by income, expenses, or view all at once.
-
   
 ## 💻 Technologies Used
 - HTML
