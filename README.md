@@ -9,7 +9,7 @@ Budget tracker is a simple and intuitive expense tracker to help you manage your
 3. ➕**Add Transactions:** Allows you to easily add new transactions (either income or expense).      
 4. 📜**Transaction History:** View a complete list of all past transactions, including both income and expenses.                    
 5. 🔍**Filter Feature:** Filter your transaction history to view only income, only expenses, or all transactions.                    
-   
+      
         
 ## 🚀 How to Use        
 - ➕ **Add Transaction:** Use the "Add Transaction" section to log your income or expenses. Specify whether it’s an income or expense, and enter the amount and details.
