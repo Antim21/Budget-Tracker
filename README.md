@@ -3,7 +3,7 @@
 <h1 align = "center">💰 Budget Tracker </h1>
 Budget tracker is a simple and intuitive expense tracker to help you manage your finances efficiently 📊. Track your income and expenses, view your transaction history, and  easily filter by type to stay on top of your budget.   
 
-## ✨ Features  
+## ✨ Features     
 1. 💸**Total Balance Display:** Shows the current balance based on your income and expenses.      
 2. 📊**Income and Expense Overview:** Displays total income and total expenses separately. 
 3. ➕**Add Transactions:** Allows you to easily add new transactions (either income or expense).      
